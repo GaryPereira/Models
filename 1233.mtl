@@ -12,5 +12,5 @@ newmtl 01___Default
 	Kd 0.5882 0.5882 0.5882
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\KickTheHabit\Desktop\Logos\uv.png
-	map_Kd C:\Users\KickTheHabit\Desktop\Logos\uv.png
+	map_Ka https://raw.githubusercontent.com/GaryPereira/Models/master/uv.png
+	map_Kd https://raw.githubusercontent.com/GaryPereira/Models/master/uv.png
